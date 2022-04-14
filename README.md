@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+- :zap: I love programming, data science, and books
+- 🌱 I’m addicted to learning and growing every day
+
 <!--
 **OlivierLpp/OlivierLpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
