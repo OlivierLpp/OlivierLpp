@@ -4,8 +4,9 @@
 - :zap: I love programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
   
-- Connect with me on:
-  - :office: [LinkedIn](https://www.linkedin.com/in/olivierlepestipon/)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/olivierlepestipon/)
+-
+- Check my work on (https://olivierlpp.github.io/)
 
 <!--
 **OlivierLpp/OlivierLpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
