@@ -3,6 +3,9 @@
 
 Motivated data scientist with 5+ years of experience in managing products for multinational technology companies. Passionate about building models that fix problems. Relevant skills include machine learning, problem solving, programming, and creative thinking. 
 
+Tech stack : 
+
+
 
 - :office: Connect with me on [LinkedIn](https://www.linkedin.com/in/olivierlepestipon/)
 
