@@ -11,7 +11,6 @@ Tech stack :
 <a href="https://www.python.org/" title="JavaScript"><img src="icons/JavaScript.svg" alt="JavaScript" width="35px" height="35px"></a>
 <a href="https://www.python.org/" title="C++"><img src="icons/C.svg" alt="C" width="35px" height="35px"></a> 
 <a href="https://www.python.org/" title="C++"><img src="icons/CPP.svg" alt="C++" width="35px" height="35px"></a> 
-
 <a href="https://www.python.org/" title="C++"><img src="icons/Flask-Light.svg" alt="C++" width="35px" height="35px"></a> 
 <a href="https://www.python.org/" title="C++"><img src="icons/Django.svg" alt="C++" width="35px" height="35px"></a> 
 <a href="https://www.python.org/" title="C++"><img src="icons/MySQL-Light.svg" alt="C++" width="35px" height="35px"></a> 
