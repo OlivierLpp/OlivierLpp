@@ -5,7 +5,7 @@ Motivated data scientist with 5+ years of experience in managing products for mu
 
 Tech stack : 
 
-<a href="https://python.com/" title="Python"><img src="icons/python.png" alt="Python" width="21px" height="21px"></a> 
+<a href="https://python.com/" title="Python"><img src="icons/python.png" alt="Python" width="35px" height="35px"></a> 
 
 - :office: Connect with me on [LinkedIn](https://www.linkedin.com/in/olivierlepestipon/)
 
