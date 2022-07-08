@@ -1,7 +1,10 @@
 <h2 align="center">👋 Hello! I'm Olivier</h2>
 
 
+
 Motivated data scientist with 5+ years of experience in managing products for multinational technology companies. Passionate about building models that fix problems. Relevant skills include machine learning, problem solving, programming, and creative thinking. 
+
+
 
 Tech stack : 
 
@@ -24,6 +27,9 @@ Tech stack :
 <a href="https://www.python.org/" title="C++"><img src="icons/scikit.png" alt="C++" width="35px" height="35px"></a>
 <a href="https://www.python.org/" title="C++"><img src="icons/seaborn.svg" alt="C++" width="35px" height="35px"></a>
 <a href="https://www.python.org/" title="C++"><img src="icons/tableau.png" alt="C++" width="35px" height="35px"></a>
+
+
+
 
 - :office: Connect with me on [LinkedIn](https://www.linkedin.com/in/olivierlepestipon/)
 
