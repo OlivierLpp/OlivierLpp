@@ -21,9 +21,9 @@ Tech stack :
 <a href="https://www.python.org/" title="C++"><img src="icons/Heroku.svg" alt="C++" width="35px" height="35px"></a>
 <a href="https://www.python.org/" title="C++"><img src="icons/numpy.png" alt="C++" width="35px" height="35px"></a>
 <a href="https://www.python.org/" title="C++"><img src="icons/pandas.svg" alt="C++" width="35px" height="35px"></a>
-<a href="https://www.python.org/" title="C++"><img src="icons/scikit.svg" alt="C++" width="35px" height="35px"></a>
+<a href="https://www.python.org/" title="C++"><img src="icons/scikit.png" alt="C++" width="35px" height="35px"></a>
 <a href="https://www.python.org/" title="C++"><img src="icons/seaborn.svg" alt="C++" width="35px" height="35px"></a>
-<a href="https://www.python.org/" title="C++"><img src="icons/tableau.svg" alt="C++" width="35px" height="35px"></a>
+<a href="https://www.python.org/" title="C++"><img src="icons/tableau.png" alt="C++" width="35px" height="35px"></a>
 
 - :office: Connect with me on [LinkedIn](https://www.linkedin.com/in/olivierlepestipon/)
 
