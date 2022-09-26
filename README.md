@@ -6,10 +6,15 @@ About me : Motivated software developer with 5+ years of experience in managing 
 <br> 
 
 🔭 I’m currently working on [a new project]
+
 🌱 I’m currently learning **React**
+
 🎯 All of my projects are available at : [Portfolio](https://olivierlpp.github.io/) (Under Construction)
+
 💬 Ask me **why I became a developer!**
+
 📫 The best way to reach me is at **o.lepestipon@gmail.com**
+
 ⚡ Fun fact **I love corgies 🐶**
 
 <h3 align="left">Connect with me:</h3>
