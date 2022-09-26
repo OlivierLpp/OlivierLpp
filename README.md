@@ -2,7 +2,7 @@
 <h3 align="center">A Developer with a passion for data and web accessibility</h3>
 
 <br> 
-**About me :** Motivated software developer with 5+ years of experience in managing products for multinational technology companies. Passionate about building solution that fix problems. Relevant skills include machine learning, problem solving, programming, and creative thinking. 
+Motivated software developer with 5+ years of experience in managing products for multinational technology companies. Passionate about building solution that fix problems. Relevant skills include machine learning, problem solving, programming, and creative thinking. 
 <br> 
 <br> 
 
@@ -16,7 +16,7 @@
 
 📫 The best way to reach me is at **o.lepestipon@gmail.com**
 
-⚡ Fun fact **I love corgies 🐶**
+⚡ Fun fact **I like corgies 🐶**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
