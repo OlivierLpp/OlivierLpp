@@ -2,11 +2,11 @@
 <h3 align="center">A Developer with a passion for data and web accessibility</h3>
 
 <br> 
-About me : Motivated software developer with 5+ years of experience in managing products for multinational technology companies. Passionate about building solution that fix problems. Relevant skills include machine learning, problem solving, programming, and creative thinking. 
+**About me :** Motivated software developer with 5+ years of experience in managing products for multinational technology companies. Passionate about building solution that fix problems. Relevant skills include machine learning, problem solving, programming, and creative thinking. 
+<br> 
 <br> 
 
-
-🔭 I’m currently working on [a new project]
+🔭 I’m currently working on a new project
 
 🌱 I’m currently learning **React**
 
@@ -43,8 +43,5 @@ About me : Motivated software developer with 5+ years of experience in managing 
 <a href="https://www.python.org/" title="Tableau"><img src="icons/tableau.png" alt="Tableau" width="35px" height="35px"></a>
 <br> 
 
-
-
-- :office: Connect with me on [LinkedIn](https://www.linkedin.com/in/olivierlepestipon/)
 
 
