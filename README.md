@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello! I'm Olivier</h1>
 <h3 align="center">A Developer with a passion for data and web accessibility</h3>
-
+<br> 
 <br> 
 Motivated software developer with 5+ years of experience in managing products for multinational technology companies. Passionate about building solution that fix problems. Relevant skills include machine learning, web development, problem solving, and creative thinking. 
 <br> 
