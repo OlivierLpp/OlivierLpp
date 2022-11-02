@@ -16,7 +16,6 @@ Motivated software developer with 5+ years of experience in managing products fo
 
 📫 The best way to reach me is at **o.lepestipon@gmail.com**
 
-⚡ Fun fact **I like corgies 🐶**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
