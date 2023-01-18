@@ -8,8 +8,6 @@ Motivated software developer with 5+ years of experience in managing products fo
 
 🔭 I’m currently working on a new project
 
-🌱 I’m currently learning **React**
-
 🎯 All of my projects are available at : [o-lpp.tech](https://olivierlpp.github.io/)
 
 💬 Ask me **why I became a developer!**
